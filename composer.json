@@ -1,13 +1,13 @@
 {
-    "name": "indicalabs/geolocation",
+    "name": "indicalabs/yii2-geolocation",
     "description": "Simple Yii2 component to find geo client information.",
     "keywords": ["yii2", "extension", "geolocation"],
     "type": "yii2-extension",
     "license": "GPL V.3",
     "authors": [
         {
-            "name": "Venu Narukulla",
-            "email": "venu.narukulla@gmail.com"
+            "name": "Rodrigo Z. Armond",
+			"email": "rodzadra@gmail.com",
         }
     ],
     "support": {
