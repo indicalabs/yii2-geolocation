@@ -1,35 +1,24 @@
 {
 	"name" : "indicalabs/yii2-geolocation",
 	"description" : "Simple Yii2 component to find geo client information.",
-<<<<<<< HEAD
-	"type" : "yii2-extension",
 	"keywords" : [
 		"yii2",
 		"extension",
 		"geolocation"
 	],
+	"type" : "yii2-extension",
 	"license" : "GPL V.3",
 	"authors" : [{
 			"name" : "Venu Narukulla",
 			"email" : "venu.narukulla@gmail.com"
 		}
 	],
-=======
-	"keywords" : [
-		"yii2",
-		"extension",
-		"geolocation"
-	],
-	"type" : "yii2-extension",
-	"license" : "GPL V.3",
-	"authors" : [{}
-	],
 	"support" : {
 		"issues" : "https://github.com/indicalabs/yii2-geolocation/issues?state=open",
 		"source" : "https://github.com/indicalabs/yii2-geolocation"
 	},
 	"minimum-stability" : "stable",
->>>>>>> branch 'master' of https://github.com/indicalabs/yii2-geolocation.git
+
 	"require" : {
 		"yiisoft/yii2" : "~2.0.13.1"
 	},
