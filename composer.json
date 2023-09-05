@@ -19,7 +19,7 @@
 	},
 	"minimum-stability" : "stable",
 	"require" : {
-		"yiisoft/yii2" : "2.0.40"
+		"yiisoft/yii2" : "2.0.49"
 	},
 	"autoload" : {
 		"psr-4" : {
